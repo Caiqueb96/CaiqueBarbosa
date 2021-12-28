@@ -1,8 +1,8 @@
 # Olá! Eu sou o Caique Barbosa
 
-  <div>
+  <div align="center">
   <a href="https://github.com/Caiqueb96">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiqueb96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Caiqueb96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiqueb96&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
